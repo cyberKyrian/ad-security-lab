@@ -36,8 +36,13 @@ This lab was designed to mirror issues commonly found in business environments a
 
 > ✅ **Screenshot:** Active Directory installation and domain promotion wizard showing domain setup as `cyberlab.local`
 > ![Screenshot showing domain setup](./screenshots/domain-setup-1.png)
+> ![Screenshot showing domain setup](./screenshots/domain-setup-2.png)
+
 > ✅ **Screenshot:** `jdoe@cyberlab.local` created in ADUC
+> ![Screenshot showing user setup](./screenshots/user-setup-1.png)
+
 > ✅ **Screenshot:** CLIENT01 joined to domain successfully
+> ![Screenshot showing user setup](./screenshots/user-setup-2.png)
 
 ---
 
