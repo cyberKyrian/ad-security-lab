@@ -34,7 +34,8 @@ This lab was designed to mirror issues commonly found in business environments a
 * Username: `jdoe`
 * Created in ADUC under the `Users` OU
 
-> ✅ **Screenshot:** Active Directory installation and domain promotion wizard showing domain setup as `cyberlab.local` (./screenshots/domain-setup-1.png)
+> ✅ **Screenshot:** Active Directory installation and domain promotion wizard showing domain setup as `cyberlab.local`
+> ![Screenshot showing domain setup](./screenshots/domain-setup-1.png)
 > ✅ **Screenshot:** `jdoe@cyberlab.local` created in ADUC
 > ✅ **Screenshot:** CLIENT01 joined to domain successfully
 
