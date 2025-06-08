@@ -4,7 +4,16 @@
 
 ### Focus: Enterprise-Relevant AD Misconfiguration and Hardening Lab
 
-### Location: Fully Remote (Nigeria)
+---
+
+## Tools & Skills Demonstrated
+
+* Active Directory Domain Services
+* Group Policy Management
+* Windows Server & Client Hardening
+* Access Control Lists (ACLs)
+* Event Viewer & Audit Policy Configuration
+* User Role Review & Access Minimization
 
 ---
 
@@ -58,6 +67,7 @@ This lab was designed to mirror issues commonly found in business environments a
 **Why it matters:** Weak passwords are easy targets for brute-force attacks and credential stuffing.
 
 > ✅ **Screenshot:** Group Policy settings showing weak password configuration
+> ![Screenshot showing user setup](./screenshots/password-policy-1.png)
 
 **Hardening Applied:**
 
@@ -66,6 +76,7 @@ This lab was designed to mirror issues commonly found in business environments a
 * Set password expiry to 30 days
 
 > ✅ **Screenshot:** Group Policy updated to reflect secure password policy
+> ![Screenshot showing user setup](./screenshots/password-policy-2.png)
 
 ---
 
@@ -78,6 +89,7 @@ This lab was designed to mirror issues commonly found in business environments a
 **Why it matters:** Over-provisioning users increases the attack surface for privilege escalation.
 
 > ✅ **Screenshot:** ADUC showing `jdoe` as a member of Domain Admins
+> ![Screenshot showing user setup](./screenshots/domain-admin-1.png)
 
 **Hardening Applied:**
 
@@ -85,6 +97,7 @@ This lab was designed to mirror issues commonly found in business environments a
 * Principle of least privilege enforced
 
 > ✅ **Screenshot:** Group membership of `jdoe` restricted to default Users group
+> ![Screenshot showing user setup](./screenshots/domain-user.png)
 
 ---
 
@@ -97,6 +110,7 @@ This lab was designed to mirror issues commonly found in business environments a
 **Why it matters:** Open access can lead to unauthorized modification or exfiltration of sensitive data.
 
 > ✅ **Screenshot:** Folder sharing settings showing “Everyone” with Full Control
+> ![Screenshot showing user setup](./screenshots/sharing-1.png)
 
 **Hardening Applied:**
 
@@ -104,6 +118,7 @@ This lab was designed to mirror issues commonly found in business environments a
 * Assigned access only to necessary users/groups with minimal privileges
 
 > ✅ **Screenshot:** Modified sharing and NTFS permissions to reflect secure access
+> ![Screenshot showing user setup](./screenshots/sharing-2.png)
 
 ---
 
@@ -116,6 +131,7 @@ This lab was designed to mirror issues commonly found in business environments a
 **Why it matters:** Without auditing, detecting misuse or breaches becomes difficult
 
 > ✅ **Screenshot:** Local Security Policy showing default (weak) audit settings
+> ![Screenshot showing user setup](./screenshots/audit-log-2.png)
 
 **Hardening Applied:**
 
@@ -124,10 +140,12 @@ This lab was designed to mirror issues commonly found in business environments a
 * Validated logs via Event Viewer
 
 > ✅ **Screenshot:** Event Viewer log showing successful logon event for `jdoe`
+> ![Screenshot showing user setup](./screenshots/audit-log-3.png)
+> ![Screenshot showing user setup](./screenshots/audit-log-4.png)
 
 ---
 
-## 🔐 Tools & Skills Demonstrated
+## Tools & Skills Demonstrated
 
 * Active Directory Domain Services
 * Group Policy Management
@@ -140,4 +158,4 @@ This lab was designed to mirror issues commonly found in business environments a
 
 ## 📌 Conclusion
 
-This lab mirrors real-life scenarios that junior cybersecurity analysts or IT security personnel face when securing enterprise networks. Each misconfiguration reflects a common vulnerability, and the corresponding hardening step shows my ability to recognize, resolve, and document cybersecurity risks in an Active Directory environment.
+This lab mirrors real-life scenarios that cybersecurity analysts or IT security personnel face when securing enterprise networks. Each misconfiguration reflects a common vulnerability, and the corresponding hardening step shows my ability to recognize, resolve, and document cybersecurity risks in an Active Directory environment.
