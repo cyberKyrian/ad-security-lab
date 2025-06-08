@@ -1,14 +1,14 @@
-# 🧱 Active Directory Security Lab: Real-World AD Hardening
+# Active Directory Security Lab: Real-World AD Hardening
 
-### 👤 Author: Kyrian Onyeagusi
+### Author: Kyrian Onyeagusi
 
-### 🧠 Focus: Enterprise-Relevant AD Misconfiguration and Hardening Lab
+### Focus: Enterprise-Relevant AD Misconfiguration and Hardening Lab
 
-### 🌍 Location: Fully Remote (Nigeria)
+### Location: Fully Remote (Nigeria)
 
 ---
 
-## 🧰 Lab Overview
+## Lab Overview
 
 In this project, I simulated a basic enterprise Active Directory environment with real-world misconfigurations and then hardened the environment using industry best practices. The goal was to demonstrate practical knowledge of domain management, vulnerability remediation, and Windows enterprise security controls.
 
