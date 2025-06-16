@@ -1,6 +1,8 @@
 # Active Directory Security Lab: Real-World AD Hardening
 
 ### Author: Kyrian Onyeagusi
+🔗 [LinkedIn](https://www.linkedin.com/in/kyrian-onyeagusi/) | 📧 [Email](mailto:kyrianoc18@gmail.com)
+
 
 ### Focus: Enterprise-Relevant AD Misconfiguration and Hardening Lab
 
@@ -25,7 +27,7 @@ This lab was designed to mirror issues commonly found in business environments a
 
 ---
 
-## 🖥️ Environment Setup
+## Environment Setup
 
 ### Domain Controller (DC01):
 
@@ -55,9 +57,9 @@ This lab was designed to mirror issues commonly found in business environments a
 
 ---
 
-## 🔓 Simulated Misconfigurations & Hardenings
+## Simulated Misconfigurations & Hardenings
 
-### 🔹 1. Weak Password Policy
+### 1. Weak Password Policy
 
 **Issue Simulated:**
 
@@ -80,7 +82,7 @@ This lab was designed to mirror issues commonly found in business environments a
 
 ---
 
-### 🔹 2. Excessive Admin Privileges
+### 2. Excessive Admin Privileges
 
 **Issue Simulated:**
 
@@ -101,7 +103,7 @@ This lab was designed to mirror issues commonly found in business environments a
 
 ---
 
-### 🔹 3. Insecure Shared Folder Permissions
+### 3. Insecure Shared Folder Permissions
 
 **Issue Simulated:**
 
@@ -122,7 +124,7 @@ This lab was designed to mirror issues commonly found in business environments a
 
 ---
 
-### 🔹 4. Lack of Audit Logging
+### 4. Lack of Audit Logging
 
 **Issue Simulated:**
 
@@ -159,3 +161,9 @@ This lab was designed to mirror issues commonly found in business environments a
 ## 📌 Conclusion
 
 This lab mirrors real-life scenarios that cybersecurity analysts or IT security personnel face when securing enterprise networks. Each misconfiguration reflects a common vulnerability, and the corresponding hardening step shows my ability to recognize, resolve, and document cybersecurity risks in an Active Directory environment.
+
+
+## 🔗 Connect
+
+**Kyrian Onyeagusi**
+🔗 [LinkedIn](https://www.linkedin.com/in/kyrian-onyeagusi/) | 📧 [Email](mailto:kyrianoc18@gmail.com)
